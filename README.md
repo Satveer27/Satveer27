@@ -11,6 +11,12 @@ Hello I am satveer, I am a passionate developer who is currently studying comput
 <br>
 ⚡ Fun fact: I am a huge fan of Liverpool FC as well as love anime.<br><br>
 
+## 📜 Main Projects 
+- Ecommerce-API-app (https://github.com/Satveer27/Ecommerce-API-app)
+- Ecommerce-MERN-stack (https://github.com/Satveer27/Ecommerce-Mern-Stack)
+- WAD_Car_Market (https://github.com/Satveer27/WAD_Car_Market)
+- Staff-Organisation-app (https://github.com/Satveer27/Staff-organisation-app)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satveer-ganasan-192096290/) 
 
