@@ -3,10 +3,10 @@
 # 💫 About Me:
 Hello I am satveer, I am a passionate developer who is currently studying computer science. I mantain code quality and always try to deliver items on time.<br>I like to do web development as well as mobile development and I am currently learning to do machine learning.<br>
 
-🔭 I’m currently working on a augmented reality application to detect statues and display a 3D model in React native using React-Viro as well as expo in IOS/Android.<br>
-🌱 I’m currently learning Machine learning to ensure that I can make predictive models to analyse football matches and display such results<br>
-📫 How to reach me: https://www.linkedin.com/in/satveer-ganasan-192096290/ <br>
-⚡ Fun fact: I am a huge fan of Liverpool FC as well as love anime.<br>
+🔭 I’m currently working on a augmented reality application to detect statues and display a 3D model in React native using React-Viro as well as expo in IOS/Android.<br><br>
+🌱 I’m currently learning Machine learning to ensure that I can make predictive models to analyse football matches and display such results<br><br>
+📫 How to reach me: https://www.linkedin.com/in/satveer-ganasan-192096290/ <br><br>
+⚡ Fun fact: I am a huge fan of Liverpool FC as well as love anime.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satveer-ganasan-192096290/) 
