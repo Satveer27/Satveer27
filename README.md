@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 Hello I am satveer, I am a passionate developer who is currently studying computer science. I mantain code quality and always try to deliver items on time.<br>I like to do web development as well as mobile development and I am currently learning to do machine learning.<br>
