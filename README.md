@@ -1,11 +1,11 @@
 # Hi there 👋
 
 # 💫 About Me:
-Hello I am satveer, I am a passionate developer who is currently studying computer science. I mantain code quality and always try to deliver items on time.<br>I like to do web development as well as mobile development and I am currently learning to do machine learning.<br>
+Hello I am satveer, I am a passionate developer who is currently studying computer science. I mantain code quality and always try to deliver items on time.<br>I like to do alot of web development as well as data engineering and I am currently learning various stacks like AWS for data engineering.<br>
 
-🔭 I’m currently working on a augmented reality application to detect statues and display a 3D model in React native using React-Viro as well as expo in IOS/Android.<br>
+🔭 I’m currently working on a UFC website with a UFC ETL to display fights, fighters and event data. UFC has been a interesting part of my life and data engineering has captivated my eyes in my previous internship therefore I am making such project related to these topics.<br>
 <br>
-🌱 I’m currently learning Machine learning to ensure that I can make predictive models to analyse football matches and display such results<br>
+🌱 I’m currently learning Machine learning, deep learning and data engineering to make pipelines for MLOPS or just simple ETL pipelines in general.<br>
 <br>
 📫 How to reach me: https://www.linkedin.com/in/satveer-ganasan-192096290/ <br>
 <br>
